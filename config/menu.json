@@ -9,33 +9,22 @@
       "url": "/about"
     },
     {
+      "name": "Our Work",
+      "url": "/work"
+    },
+    {
       "name": "Blog",
       "url": "/posts"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Terms & Conditions",
-          "url": "/terms-policy"
-        }
-      ]
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
     }
   ],
   "footer": [
     {
       "name": "About",
       "url": "/about"
+    },
+    {
+      "name": "Our Work",
+      "url": "/work"
     },
     {
       "name": "Blog",

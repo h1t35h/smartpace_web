@@ -1,9 +1,9 @@
 ---
 banner:
-  title: "SmartPace is the most intuitive </br> way to prototype Designs"
+  title: "Quick tech solutions to solve all your </br> critical business challenges"
   image: /images/banner-app.png
   link:
-    label: Get Premium Version
+    label: Contact Us
     href: "#"
 
 ##brands
@@ -21,26 +21,26 @@ brands:
 #features
 features:
   sub_title: SPECIAL FEATURES
-  title: Elements To </br> Get You Started
+  title: Why SmartPace?
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
   list:
     - icon: 'lock' # feather icon: https://feathericons.com/
-      title: Updated Security
+      title: Clean Code
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
     - icon: 'wind'
-      title: Magnetic Turning
+      title: Object Oriented
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
     - icon: 'shield'
-      title: Secured & up-to-date
+      title: Faster Response
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
     - icon: 'link'
-      title: Instant Link Sharing
+      title: Value For Money
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
     - icon: 'lock'
-      title: Updated Security
+      title: Cloud Support
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
     - icon: 'wind'
-      title: Magnetic Turning
+      title: 24h Service
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
 
 #intro
